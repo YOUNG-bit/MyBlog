@@ -36,3 +36,12 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+### Commit to github
+
+```
+git add -A
+git commit -m ''
+git push origin main
+```
+
